@@ -23,12 +23,41 @@ I'm currently a student of **University of Delta, Agbor (UNIDEL)** studying **B.
 
 ---
 
-## 🚀 Currently Working On
-- VTU Web & App Tools
-- Laravel Payment Integrations
-- Mobile-first Firebase Wallets
-- Open-Source Projects & System Scripts
-- Personal Blog: `devthadrevil.xyz` (coming soon)
+## 🧩 Projects
+
+### 🔹 Winpay – VTU Bill Payment Platform  
+> A full-featured fintech app for airtime, data, electricity, wallet funding, and bill payments.  
+> Built for: **Dr. Abayomi Winner** – CEO of Winpay NG  
+> Tech: JavaScript, PHP, Tailwind CSS, API Integration  
+> Status: ✅ Live | 🔐 Private Build
+
+---
+
+### 🔹 Datapaddy – Secure VTU & Wallet App  
+> Built for seamless airtime, data, power, and wallet transactions.  
+> Built for: **Ibanga Sam Okon** – CEO of Datapaddy  
+> Tech: PHP (Core), JavaScript, Tailwind CSS, API Logic  
+> Status: ✅ Live | 🔐 Private Build
+
+---
+
+### 🔹 Firebase Wallet System  
+> Mobile-first wallet with real-time database using Firebase + Termux backend  
+> Tech: Firebase, JavaScript, PHP, Sketchware Pro  
+> Status: 🚧 In Development
+
+---
+
+### 🔹 VTU Tools & Reseller Panel  
+> Complete backend + reseller dashboard for managing data, airtime, electricity APIs  
+> Tech: Laravel, Bootstrap, PHP, Flutterwave/Monnify API  
+> Status: ✅ Live | Pulsepoint NG
+
+---
+
+### 🔹 `devthadrevil.xyz` – Personal Blog & Tools Hub  
+> A blog to share developer tools, open-source files, tutorials, and fintech guides.  
+> Status: 🛠 Coming Soon
 
 ---
 
