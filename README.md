@@ -1,4 +1,4 @@
-# 👨🏽‍💻 FAVOUR DRE 🧸
+# FAVOUR DRE 🧸
 
 **Fullstack PHP Developer | Tech Creator | Fintech Builder**  
 Built by **©DREvil – FAVOUR DRE 🧸**
