@@ -1,86 +1,53 @@
-# FAVOUR DRE 🧸
+# Favour Adjenuvurhe
 
-**Fullstack PHP Developer | Tech Creator | Fintech Builder**  
-Built by **©DREvil – FAVOUR DRE 🧸**
-
----
-
-Hi, I'm **Favour Yoma Adjenuvurhe**, also known online as **FAVOUR DRE** – a developer, entrepreneur, and content creator from Delta State (Warri Boy 🇳🇬).  
-I'm currently a student of **University of Delta, Agbor (UNIDEL)** studying **B.Sc. Economics**.
+**Fullstack PHP Developer | Fintech Builder | Tech Creator**
 
 ---
 
-## 🔧 What I Do
-- ✅ Fullstack PHP Development (Laravel, Native PHP)
-- ✅ HTML, CSS, Tailwind CSS UI Builds
-- ✅ API Integrations (Fintech, VTU, Flutterwave, Monnify)
-- ✅ WordPress Plugin & Theme Development
-- ✅ Clone, Debug & Customize Scripts
-- ✅ Telegram Bot Development (PHP & Termux)
-- ✅ Software Deployment & Documentation
-- ✅ YouTube Content Creation
-- ✅ Tech Reviews, Tutorials & Code Tips
+###  Who I Am
+
+I’m **Favour Adjenuvurhe**, a passionate PHP developer and fintech innovator from Delta State, Nigeria. Currently pursuing a **B.Sc. in Economics** at the **University of Delta, Agbor**, I build scalable fintech platforms and contribute to open-source projects.
 
 ---
 
-## 🧩 Projects
+###  What I Work On
 
-### 🔹 Winpay – VTU Bill Payment Platform  
-> A full-featured fintech app for airtime, data, electricity, wallet funding, and bill payments.  
-> Built for: **Dr. Abayomi Winner** – CEO of Winpay NG  
-> Tech: JavaScript, PHP, Tailwind CSS, API Integration  
-> Status: ✅ Live | 🔐 Private Build
-
----
-
-### 🔹 Datapaddy – Secure VTU & Wallet App  
-> Built for seamless airtime, data, power, and wallet transactions.  
-> Built for: **Ibanga Sam Okon** – CEO of Datapaddy  
-> Tech: PHP (Core), JavaScript, Tailwind CSS, API Logic  
-> Status: ✅ Live | 🔐 Private Build
+- **Fullstack PHP Development** with Laravel and core PHP  
+- **Frontend**: HTML, CSS, Tailwind CSS  
+- **Fintech Integrations**: APIs (VTU, Flutterwave, Monnify, etc.)  
+- **Open-source Projects**: HTML + Tailwind clones and more  
+- **Content Creation**: Technical tutorials, code walkthroughs, and insights
 
 ---
 
-### 🔹 Firebase Wallet System  
-> Mobile-first wallet with real-time database using Firebase + Termux backend  
-> Tech: Firebase, JavaScript, PHP, Sketchware Pro  
-> Status: 🚧 In Development
+###  Professional Highlights
+
+- **Open-Source Clone Launch**  
+  Recently released a free HTML + Tailwind CSS open-source clone of *Aimtoget* 4.
+
+- **Fintech & Development Projects**  
+  Focused on creating secure, API-powered platforms for financial transactions and utility services.
+
+- **YouTube Creator**  
+  Runs a channel dedicated to development topics, tech building, and developer education 5.
 
 ---
 
-### 🔹 VTU Tools & Reseller Panel  
-> Complete backend + reseller dashboard for managing data, airtime, electricity APIs  
-> Tech: Laravel, Bootstrap, PHP, Flutterwave/Monnify API  
-> Status: ✅ Live | Pulsepoint NG
+###  Skills & Tools
+
+| Backend                    | Frontend               | Fintech & Tools                   |
+|---------------------------|------------------------|-----------------------------------|
+| PHP (Laravel, Core)       | HTML, CSS, Tailwind CSS| Flutterwave, Monnify, VTU APIs    |
+| Open-Source Project Work  | Responsive Web Design  | API Integrations & Troubleshooting|
+| Deployment & Documentation| YouTube Content Creation | Tools and Tutorials               |
 
 ---
 
-### 🔹 `devthadrevil.xyz` – Personal Blog & Tools Hub  
-> A blog to share developer tools, open-source files, tutorials, and fintech guides.  
-> Status: 🛠 Coming Soon
+###  Social & Development Channels
+
+- **Instagram**: Sharing open-source launches and development highlights 6  
+- **YouTube**: In-depth tech content, tutorials, and developer insights 7  
 
 ---
 
-## 🛠 Languages & Tools
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-F55247?style=flat&logo=laravel&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-
----
-
-## 📫 Connect With Me
-**Real Name:** Favour Yoma Adjenuvurhe  
-**Location:** Delta State, Nigeria 🇳🇬  
-**School:** University of Delta Agbor (UNIDEL)  
-**WhatsApp:** +234 906 487 6505  
-**Signature:** `©DREvil – FAVOUR DRE 🧸`  
-**YouTube:** `favour_dre`
-
----
-
-> 🚧 Always building. Always learning. Always improving.
+> *“Building fintech systems, creating content, and empowering developers—one project at a time.”*
