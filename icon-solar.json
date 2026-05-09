@@ -1,0 +1,7 @@
+CDN script (no install)
+Add this in HTML:
+HTML
+<script src="https://code.iconify.design/iconify-icon/2.0.0/iconify-icon.min.js"></script>
+Then use:
+HTML
+<iconify-icon icon="solar:call-linear"></iconify-icon>
